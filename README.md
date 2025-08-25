@@ -13,9 +13,9 @@ I am a **Computer Science enthusiast** passionate about solving complex problems
 ---
 
 ## 💻 Technical Skills
-- **Languages:** C, Java, Python, SQL
+- **Languages:** C, Python, SQL
 - **Databases:** MySQL, MongoDB
-- **Cybersecurity Tools:** Kali Linux, Nmap, Metasploit (Exploring more tools)
+- **Cybersecurity Tools:** Kali Linux, Nmap
 - **Problem Solving:** Algorithmic thinking
 - **Web Technologies:** HTML, CSS, JavaScript (Basic knowledge)
 
