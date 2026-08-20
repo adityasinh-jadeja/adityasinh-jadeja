@@ -1,14 +1,12 @@
 # Hello, I'm Adityasinh Janmejaysinh Jadeja!
 
 ## About Me
-I am a **Computer Science enthusiast** passionate about solving complex problems, exploring the field of **cybersecurity**, and mastering **database management systems (DBMS)**. I enjoy building scalable applications, securing systems, and optimizing data operations.
+Computer Science undergrad focused on Application Security and VAPT. I spend most of my time in Burp Suite and Kali, and the rest writing recon tooling in Python.
 
 ---
 
 ## Interests & Goals
--  **Cybersecurity:** Exploring ethical hacking, penetration testing, and system security.
--  **Problem Solving:** Practicing data structures and algorithms to enhance my competitive programming skills.
--  **Database Management:** Designing, optimizing, and querying databases efficiently using SQL and other DBMS technologies.
+Web app pentesting is what I enjoy most — finding the logic flaws and misconfigs that automated scanners miss. I'm currently working through bug bounty programs alongside PortSwigger's Web Security Academy labs and TryHackMe rooms to keep sharpening that.
 
 ---
 
